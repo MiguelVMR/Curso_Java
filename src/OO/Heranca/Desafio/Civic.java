@@ -1,7 +1,7 @@
 package oo.Heranca.Desafio;
 
 public class Civic extends Carro {
-    Civic(){
+   public Civic(){
         super(212);
     }
 
