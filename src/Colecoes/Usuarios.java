@@ -1,6 +1,6 @@
 package Colecoes;
 
-import java.util.Objects;
+
 
 public class Usuarios {
     String nome;
