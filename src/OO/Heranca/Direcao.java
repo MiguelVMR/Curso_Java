@@ -1,4 +1,4 @@
-package OO.Heranca;
+package oo.Heranca;
 
 public enum Direcao {
     NORTE,LESTE,SUL,OESTE;

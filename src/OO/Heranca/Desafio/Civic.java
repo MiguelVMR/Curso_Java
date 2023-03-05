@@ -1,4 +1,4 @@
-package OO.Heranca.Desafio;
+package oo.Heranca.Desafio;
 
 public class Civic extends Carro {
     Civic(){

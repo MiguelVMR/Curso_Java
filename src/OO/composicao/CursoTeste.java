@@ -1,4 +1,4 @@
-package OO.composicao;
+package oo.composicao;
 
 public class CursoTeste {
     public static void main(String[] args) {

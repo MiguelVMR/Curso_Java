@@ -1,4 +1,4 @@
-package OO.Heranca;
+package oo.Heranca;
 
 public class heroi extends Jogador{
 

@@ -1,4 +1,4 @@
-package OO.Heranca.Desafio;
+package oo.Heranca.Desafio;
 
 public class CarroTeste {
     public static void main(String[] args) {

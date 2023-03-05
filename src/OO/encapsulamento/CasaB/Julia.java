@@ -1,6 +1,6 @@
-package OO.encapsulamento.CasaB;
+package oo.encapsulamento.CasaB;
 
-import OO.encapsulamento.CasaA.Ana;
+import oo.encapsulamento.CasaA.Ana;
 
 public class Julia {
     Ana sogra = new Ana();

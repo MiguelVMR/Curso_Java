@@ -1,4 +1,4 @@
-package OO.desafio;
+package oo.desafio;
 
 import java.util.ArrayList;
 import java.util.List;

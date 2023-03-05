@@ -1,9 +1,9 @@
-package OO.composicao;
-
-import OO.composicao.Aluno;
+package oo.composicao;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import oo.composicao.Aluno;
 
 public class Curso {
      final String nome;

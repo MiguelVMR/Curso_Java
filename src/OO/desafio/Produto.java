@@ -1,4 +1,4 @@
-package OO.desafio;
+package oo.desafio;
 
 public class Produto {
     double preco;
