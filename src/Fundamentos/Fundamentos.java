@@ -11,21 +11,20 @@ import java.util.Scanner;
  */
 public class Fundamentos {
     public static void main(String[] args) {
-        int num = 3;
-        double numm = 1.5;
-
+        
         // final antes das variaveis para ela se tornar uma constante
-        final double CONSTANTE = 3.1415;
+       
 
         // var infere o tipo da variavel
-        var text = "string";
-        text = "Outra string";
+       
 
         // inout em java
         Scanner input = new Scanner(System.in);
         String nome = input.nextLine();
         int idade = input.nextInt();
         input.close();
+        System.out.println(nome);
+        System.out.println(idade);
 
     /* Wrapers são a versão objeto dos tipos primitivos (Podem colocar ponto e alguma coisa )
     Byte
@@ -41,6 +40,7 @@ public class Fundamentos {
 
         int c = 4;
         byte d = (byte) c; // conversão explisita
+        System.out.println(d);
 
         Integer i = 100;
         i.toString();
@@ -50,6 +50,7 @@ public class Fundamentos {
         // para transformar string em numero usa o ponto parse (.parseDouble)
         String texto = "TEXTO";
         double i1 = Double.parseDouble(texto);
+        System.out.println(i1);
 
         // sobre operadores de condição && (AND) || (OR)
 
@@ -67,6 +68,7 @@ public class Fundamentos {
         String e1 = new String("2");
         System.out.println("2".equals(e1.trim())); //Existe o equalsIgnoreCase que ignora letras maiusculos e minusculas
 
+        System.out.println(result);
 
 
 
