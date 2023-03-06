@@ -8,7 +8,8 @@ public class ValorVsRef {
         a++; // a = 3
         b--; // b = 1
         // Os valores são independentes
-
+        System.out.println(b);
+        
         Data d1 = new Data(1,6,2022);
         Data d2 = d1; // Atribuição por referencia (Objeto)
 

@@ -19,6 +19,9 @@ public class ProdutoTeste {
         double precoFinal1 = p1.precoComDesconto();
         double precoFinal2 = p2.precoComDesconto(0.1);
 
+        System.out.println(precoFinal1);
+        System.out.println(precoFinal2);
+
 
 
     }
